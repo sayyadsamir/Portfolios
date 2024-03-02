@@ -1,0 +1,33 @@
+.skills_intro p{
+   color: rgb(145, 157, 157);
+}
+.skills_intro h2{
+  font-size: 35px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.bodys{
+   margin-top: 20px;
+}
+.bodys h4{
+   margin-top: 20px;
+}
+
+.imgss{
+    font-size: 10px;
+    background-color: red;
+  
+}
+.row .cards1{
+   height: 150px;
+   margin-top: 10px;
+   background-color: rgb(219, 209, 209);
+   padding: 15px;
+}
+
+.cards1:hover{
+   /* color: red; */
+   background-color: rgb(178, 224, 241);
+   cursor: pointer;
+}

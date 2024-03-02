@@ -1,0 +1,25 @@
+.intro{
+   color: orange;
+   font-family:'Times New Roman', Times, serif;
+   width: 100%;
+   margin-top: 10px;
+ }
+.imgs{
+  width: 80%;
+  height: 400px;
+}
+  .about_me p{
+    margin-top: 20px;
+}
+.biography span{
+   /* font-size: 20px; */
+   font-weight: 500;
+   text-align: justify;
+   padding-right: 30px;
+}
+.biography h6{
+   text-align:start;
+margin-top: 20px;
+  font-weight:inherit;
+  margin-bottom: 20px;
+}

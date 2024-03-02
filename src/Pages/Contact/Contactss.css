@@ -1,0 +1,19 @@
+.backgr{
+   background-color:rgb(211, 214, 217);
+}
+.backgr:hover{
+   box-shadow: 1px 2px 15px 2px black;
+}
+.backgr i{
+    padding: 10px;
+   font-size: 35px;
+   color: #e86565;
+   
+}
+.backgr{
+   margin: 35px;
+}
+.backgr p{
+   font-size: 18px;
+   font-weight: 400px;
+}
